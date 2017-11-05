@@ -1,0 +1,56 @@
+body {
+    background: #000;
+    font-family: 'Quattrocento Sans', sans-serif;
+    text-align: center;
+    color: #fff;
+    height: 100%;
+}
+
+.container {
+    left: auto;
+    right: auto;
+}
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 0 30px;
+}
+
+footer i {
+    padding: 10px;
+}
+
+a {
+    color: fff;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #fff;
+}
+
+.navbar {
+    justify-content: center !important;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.nav-link:hover {
+    text-decoration: underline !important;
+}
+
+
+
+svg {
+    fill: #fff;
+    padding: 20px;
+}
